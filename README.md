@@ -9,7 +9,7 @@ I'm a passionate Python developer with experience in both frontend and backend t
 ## 🛠️ Technical Skills
 
 ### Frontend:
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -19,7 +19,7 @@ I'm a passionate Python developer with experience in both frontend and backend t
 </div>
 
 ### Backend:
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=red" alt="Django Rest Framework" />
@@ -33,13 +33,13 @@ I'm a passionate Python developer with experience in both frontend and backend t
 </div>
 
 ### Databases:
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Weaviate-008080?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
 </div>
 
 ### DevOps:
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/Power%20Virtual%20Agent-0E76A8?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Virtual Agent" />
@@ -55,7 +55,7 @@ I'm a passionate Python developer with experience in both frontend and backend t
 </div>
 
 ### LLM-related Tools:
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFAE33?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </div>
