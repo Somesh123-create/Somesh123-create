@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Somesh!
 
+I'm a passionate Python developer with experience in both frontend and backend technologies. I specialize in creating robust applications using Django and various DevOps tools. I enjoy solving complex problems and continuously learning new technologies to improve my skills.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Workspace Setup" />
+</div>
+
 ## 🛠️ Technical Skills
 
 ### Frontend:
@@ -69,18 +75,25 @@
 ---
 
 ## 📊 GitHub Stats
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somesh123-create&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh123-create&layout=compact&theme=radical)
+<div style="display: flex; justify-content: center; gap: 20 px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somesh123-create&show_icons=true&theme=radical" alt="Somesh's GitHub stats" style="max-width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh123-create&layout=compact&theme=radical" alt="Top Langs" style="max-width: 45%;"/>
+</div>
 
 ---
 
 ## 🖥️ Workspace Setup
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace Setup" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" />
-  <img src="https://img.shields.io/badge/Git-FF6F61?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Terminal-6C6E6F?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </div>
+
+---
+
